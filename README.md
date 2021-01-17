@@ -8,4 +8,5 @@ In a statement
 ## Data
 This dataset is originally from UCI Machine Learning Repository. However, this is a cleaned dataset from Kaggle.
 https://www.kaggle.com/abhia1999/chronic-kidney-disease
-***However, chronic-kidney-disease.csv is provided in this repository which a copy of the dataset found on Kaggle.***
+
+***However, a csv file chronic-kidney-disease.csv is provided in this repository which is a copy of the dataset found on Kaggle.***
